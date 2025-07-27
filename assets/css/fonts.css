@@ -1,0 +1,12 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+@font-face {
+  font-family: "Spantaran";
+  src: url("fonts/Spantaran.woff2") format("woff2"),
+    url("fonts/Spantaran.woff") format("woff"),
+    url("fonts/Spantaran.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
