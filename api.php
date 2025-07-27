@@ -1,5 +1,6 @@
 <?php
 
+require_once plugin_dir_path(__FILE__) . 'methods.php';
 
 function verify_token($request)
 {
